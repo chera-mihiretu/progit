@@ -1,0 +1,2 @@
+Tags are like a commit to only be used with important commits
+EG: when commits are new version release 
